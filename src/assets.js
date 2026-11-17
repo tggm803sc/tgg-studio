@@ -1,4 +1,4 @@
-import { drawScene } from './visuals'
+import { drawScene } from './visuals.js'
 
 // Asset registry. Scenes are procedural (no files), titles are vector text,
 // imported images/videos live only for the session and are dropped on reload.
